@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: '/static-cover/',
   devServer: {
     port: 3000
   },
